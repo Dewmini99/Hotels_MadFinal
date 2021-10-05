@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Hotels">
-        <activity android:name=".AddRoomsActivity"></activity>
+        <activity android:name=".SelectRooms"></activity>
+        <activity android:name=".AddRoomsActivity" />
         <activity android:name=".Rooms" />
         <activity android:name=".Booking" />
         <activity android:name=".AddActivity" />

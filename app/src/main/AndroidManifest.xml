@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hotels">
         <activity
+            android:name=".paymentConfirm"
+            android:exported="true" />
+        <activity
+            android:name=".payment"
+            android:exported="true" />
+        <activity
             android:name=".login_and_main"
             android:exported="true" />
         <activity android:name=".SelectRooms" />

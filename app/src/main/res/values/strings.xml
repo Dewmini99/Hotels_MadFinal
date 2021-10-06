@@ -4,4 +4,18 @@
     <string name="done">done</string>>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="total_amount">Total amount</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="payment_options">Payment Options</string>
+    <string name="payments_radio_btn_credit">Credit Card</string>
+    <string name="cvv_code">CVV Code</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="next">Next</string>
+    <string name="card_number">Card Number</string>
+    <string name="master_card">Master Card</string>
+    <string name="debit_card">Debit Card</string>
+    <string name="confirm_text"> Confirm Your Thransaction Here..!!!</string>
+    <string name="delete_payment">Delete</string>
+    <string name="confirm_payment">Confirm</string>
 </resources>
